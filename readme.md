@@ -1,2 +1,4 @@
-### 使用Angular 完成一个Todomvc案例
-![todomvc](./todo.png)
+# TodoMVC App
+
+### Getting started
+> Clone this repo and install the dependencies with npm by running: npm install.
