@@ -2,9 +2,8 @@
  * @Author: liugengpc
  * @Date:   2016-04-16 17:46:41
  * @Last Modified by:   liugengpc
- * @Last Modified time: 2016-04-16 22:27:59
+ * @Last Modified time: 2016-04-16 22:35:06
  */
-
 (function(angular) {
   var todoMVC = angular.module('todoMVC');
   todoMVC.service('Storage', ['$window', function($window) {
